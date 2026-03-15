@@ -1,12 +1,11 @@
-Activity description: what were the expectations and what did you do?
-
-  Me and the rest of my team of 4 traveled to Gonzaga to particiapte in person at the 7th Spokane Cybercup. There was a big starting cerimony after which we split of into our teams to complete as many CTF challenges for points as we could.
-Technical decisions: what decisions did you take from a technical perspective throughout this activity/event?
-
-  My initial decision for the cybercup was to focus on challenges that I either knew how to do or atleast had some knowledge about. After these were all completed, I moved onto the challenges that I would have to study up on. One of my favorite challenges involved learning about dtmf tones so that I could view a sound clip on a spectrogram and identify the tones.
+**Activity description: what were the expectations and what did you do?
+**  Me and the rest of my team of 4 traveled to Gonzaga to particiapte in person at the 7th Spokane Cybercup. There was a big starting cerimony after which we split of into our teams to complete as many CTF challenges for points as we could.
   
-Contributions: did you participate alone or with a team? If with a team, what were your specific individual contributions?
-  I participated in a team and scored the most points for my team, the page is removed so I can't report my exact number of points. Specifically I was able to beat a challenge that involved convincing an AI chatbot to hand over classified information. This challenge was tough and all of us tried multiple times before I finally got it.
+**Technical decisions: what decisions did you take from a technical perspective throughout this activity/event?
+**  My initial decision for the cybercup was to focus on challenges that I either knew how to do or atleast had some knowledge about. After these were all completed, I moved onto the challenges that I would have to study up on. One of my favorite challenges involved learning about dtmf tones so that I could view a sound clip on a spectrogram and identify the tones.
   
-Quality assessment: how would you assess your participation in this event? What would you do differently if you could redo the event?
-  I think my participation in this event was very helpful for myself. I learned quite a bit and had a blast. If I could redo the event I would look at previous years challenges as practice. I hadn't know previous challenges were posted and went in blind since this was my first CTF.
+**Contributions: did you participate alone or with a team? If with a team, what were your specific individual contributions?
+**  I participated in a team and scored the most points for my team, the page is removed so I can't report my exact number of points. Specifically I was able to beat a challenge that involved convincing an AI chatbot to hand over classified information. This challenge was tough and all of us tried multiple times before I finally got it.
+  
+**Quality assessment: how would you assess your participation in this event? What would you do differently if you could redo the event?
+**  I think my participation in this event was very helpful for myself. I learned quite a bit and had a blast. If I could redo the event I would look at previous years challenges as practice. I hadn't know previous challenges were posted and went in blind since this was my first CTF.
