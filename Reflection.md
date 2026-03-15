@@ -1,4 +1,5 @@
 Activity description: what were the expectations and what did you do?
+
   Me and the rest of my team of 4 traveled to Gonzaga to particiapte in person at the 7th Spokane Cybercup. There was a big starting cerimony after which we split of into our teams to complete as many CTF challenges for points as we could.
 Technical decisions: what decisions did you take from a technical perspective throughout this activity/event?
   My initial decision for the cybercup was to focus on challenges that I either knew how to do or atleast had some knowledge about. After these were all completed, I moved onto the challenges that I would have to study up on. One of my favorite challenges involved learning about dtmf tones so that I could view a sound clip on a spectrogram and identify the tones.
